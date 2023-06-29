@@ -1,4 +1,7 @@
 <div>Hello World</div>
-<input type="file" name="wordfile" id="wordfile"/>
+<form (ngSubmit)="openWord()" [formGroup]="myForm">
+    <input type="file" formControlName="wordDoc" (change)="fileUpload($event)"/>
+    <button type="submit">Submit</button>
+</form>
 
 <button (click)="docxDownload()">download docx</button>

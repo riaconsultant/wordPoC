@@ -1,0 +1,180 @@
+"RISK DETAILS"
+"Reinsured
+""#if ( $ot.RiskHeader.quote)""""$ot.riskHeader.quote.mainReassured.legal""""#else""""$ot.ReassuredGroup.get(0).Reassured.get(""""#end"""
+"(hereinafter collectively referred to as the ""Company"")
+Unique Market Reference
+B1775""$ot.riskRef"""
+"Type"
+"PROPERTY CATASTROPHE EXCESS OF LOSS REINSURANCE CONTRACT"
+"Reinsurance Contract Documentation"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"This document details the contract terms entered into by Reinsurer(s) and constitutes the Contract documentation."
+"Signature of this Contract document constitutes agreement to the clauses incorporated herein."
+"Where required, XIS to subsequently sign Lloyd's and/or Company policy wording documentation. The production of, and agreement to, a separate Contract Wording is not required unless specifically requested by the Reinsured"
+"Contract Leader only (unless otherwise stipulated by the Contract Leader) to agree any subsequent submissions if revisions or endorsements are necessary. The endorsement(s) or e-endorsements(s) signed by the Reinsurer shall form the evidence of the changes agreed."
+""
+""
+""
+""
+"All terms and conditions as per the Lockton Re LLP contract wording incorporated herein."
+""
+"INFORMATION"
+"Information"
+"See Information pack entitled"
+"Information has been emailed and made available to all Reinsurers participating on the Contract."
+"............ Estimated Subject Premium: USD....................."
+"Delete if not applicable"
+"Reinsurers to annually re-sign this Contract after 12 months"
+"SECURITY DETAILS"
+"Reinsurer's Liability
+Reinsurer's liability several not joint
+Clause LMA3333
+The liability of a reinsurer under this Contract is several and not joint with other reinsurers party to this Contract. A reinsurer is liable only for the proportion of liability it has underwritten. A reinsurer is not jointly liable for the proportion of liability underwritten by any other reinsurer. Nor is a reinsurer otherwise responsible for any liability of any other reinsurer that may underwrite this Contract."
+"The proportion of liability under this Contract underwritten by a reinsurer (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of the syndicate taken together) is shown next to its stamp. This is subject always to the provision concerning ""signing"" below."
+"In the case of a Lloyd's syndicate, each member of the syndicate (rather than the syndicate itself) is a reinsurer. Each member has underwritten a proportion of the total shown for the syndicate (that total itself being the total of the proportions underwritten by all the members of the syndicate taken together). The liability of each member of the syndicate is several and not joint with other members. A member is liable only for that member's proportion. A member is not jointly liable for any other member's proportion. Nor is any member otherwise responsible for any liability of any other reinsurer that may underwrite this Contract. The business address of each member is Lloyd's, One Lime Street, London EC3M 7HA.  The identity of each member of a Lloyd's syndicate and their respective proportion may be obtained by writing to Market Services, Lloyd's, at the above address."
+""
+"Proportion of liability"
+"Unless there is ""signing"" (see below), the proportion of liability under this Contract underwritten by each reinsurer (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of the syndicate taken together) is shown next to its stamp and is referred to as its ""written line""."
+"Where this Contract permits, written lines, or certain written lines, may be adjusted (""signed""). In that case a schedule is to be appended to this Contract to show the definitive proportion of liability under this Contract underwritten by each reinsurer (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of the syndicate taken together). A definitive proportion (or, in the case of a Lloyd's syndicate, the total of the proportions underwritten by all the members of a Lloyd's syndicate taken together) is referred to as a ""signed line"". The signed lines shown in the schedule will prevail over the written lines unless a proven error in calculation has occurred."
+"Although reference is made at various points in this clause to ""this Contract"" in the singular, where the circumstances so require this should be read as a reference to contracts in the plural.
+Order Hereon
+First Layer .........     .% of ..................%"
+"Second Layer ..........% of ..................%"
+"Third Layer ......    ....% of ..................%"
+"Fourth Layer ..........  % of ..................%"
+"Basis of Written Lines
+Percentage of whole
+Signing Provisions
+FOR LINES SIGNED PRIOR TO COMMENCEMENT"
+"In the event that the written lines hereon exceed 100% of the order, any lines written ""to stand"" will be allocated in full and all other lines will be signed down in equal proportions so that the aggregate signed lines are equal to 100% of the order without further agreement of any of the Reinsurers."
+"The Reinsured may elect for the disproportionate signing of Reinsurers' lines, without further specific agreement of Reinsurers, providing that any lines written ""to stand"" may not be varied without the documented agreement of those Reinsurers."
+""
+""
+""
+"FOR LINES SIGNED AFTER COMMENCEMENT"
+"In the event that the placement of the order is not completed by the commencement date of the period of reinsurance, then all lines written by that date will be signed in full unless Reinsurers are otherwise advised. However, subsequent to the commencement date of the period of reinsurance, Reinsurers agree that unless specifically instructed otherwise by the Client, their lines may be signed down proportionately (other than lines written specifically ""to stand"") in direct relation to the latest Client instructed order held on file by Lockton Re LLP."
+"Any alteration to lines will be applied retroactively back to the commencement date of the period of reinsurance from the time that such Client instruction is received by Lockton Re LLP.
+Authorised Lines
+In a co-reinsurance placement following Reinsurers may, but are not obliged to, follow the premium charged by the lead reinsurer."
+"Reinsurers may not seek to guarantee for themselves terms as favourable as those which others subsequently achieve during the placement.
+Signing Pages
+This Contract incorporates the following:"
+"A Reinsurer Signing Page for each Reinsurer participating in this Contract, signature of which binds the Reinsurer and the Reinsured to the terms and conditions of this Contract. Where the Reinsurer provides acceptance of a share by alternative correspondence, this shall constitute their formal signature until superseded by an Interests and Liabilities Agreement or Signing Page."
+"For the purposes of the application of Reinsurer's Liability Clause LMA3333, each Reinsurer signed line is recorded on the Reinsurer's signing page and not in a separate schedule appended to this Contract.
+Mode of Execution
+This Contract and any changes to it may be executed by:"
+"a. ) electronic signature technology employing computer software and a digital signature or digitiser pen pad to capture a person's handwritten signature in such a manner that the signature is unique to the person signing, is under the sole control of the person signing, is capable of verification to authenticate the signature and is linked to the document signed in such a manner that if the data is changed, such signature is invalidated;"
+"b.) a unique authorisation provided via a secure electronic trading platform;"
+"c.) a timed and dated authorisation provided via an electronic message/system;"
+"d.) an exchange of facsimile/scanned copies showing the original written ink signature of paper documents;"
+"e.) an original written ink signature of paper documents (or a true representation of a signature, such as a rubber stamp).;"
+""
+"The use of any one or a combination of these methods of execution shall constitute a legally binding and valid signing of this Contract.  This Contract may be executed in one or more of the above counterparts, each of which, when duly executed, shall be deemed an original."
+"SUBSCRIPTION AGREEMENT"
+"Contract Leader
+1st Layer: ..............."
+"2nd Layer: ..............."
+"3rd Layer: ..............."
+"4th Layer: ...............
+Basis of Agreement to Contract Changes
+All amendments and special acceptances to this Contract shall be binding hereunder when initialled by the Contract Leader only (unless otherwise stipulated by the Contract Leader). All previously agreed special acceptances shall be automatically binding hereon. Reinsurers hereon agree that, at the option of the Reinsured and with the agreement of the Contract Leader only (unless otherwise stipulated by the Contract Leader), the period of this reinsurance may be extended for up to one calendar month at pro rata terms (or as agreed by Contract Leader only). Notwithstanding the foregoing, any notice of cancellation issued on behalf of Reinsurers shall remain in effect. Any further period extension to be agreed by all Reinsurers hereon."
+"In the event that commutation of liabilities hereunder is requested, Lloyd's Reinsurers authorise the Leading Lloyd's Reinsurer to conduct all such negotiations and agreements on their behalf."
+"Should Lockton Re LLP not receive premium payment from the Reinsured in respect of any deferred premium instalment, Reinsurers authorise Xchanging Ins-sure Services to return any deferred instalment premiums already involuntarily funded by Lockton Re LLP to them and agree that any further deferred instalment payments will be paid as additional premiums as and when received by Lockton Re LLP to be agreed by Contract Leader only. Wherever practicable, between the broker and each (re)insurer which have at any time the ability to send and receive ACORD messages:"
+"1. broker agrees that any proposed contract change will be requested via an 'ACORD message' or using an ACORD enabled electronic trading platform;"
+"2. whilst the parties may negotiate and agree any contract change in any legally effective manner, each relevant (re)insurer agrees to respond via an appropriate 'ACORD message' or using an ACORD enabled electronic trading platform;"
+"3. where a (re)insurer has requested to receive notification of any contract change the broker agrees to send the notification via an 'ACORD message' or using an ACORD enabled electronic trading platform.
+Basis of Claims Agreement
+As specified under the Claims Agreement Parties and to be managed in accordance with:"
+"(i) The SINGLE CLAIMS AGREEMENT PARTY ARRANGEMENTS LMA9150 (copy available upon request) for claims or circumstances assigned as Single Claims Agreement Party Claims (SCAP Claims) or, where it is not applicable, the following shall apply as appropriate:"
+"(ii) The Lloyd's Claims Scheme (Combined), or as amended or any successor thereto. (iii)IUA claims agreement practices"
+"(iv)The practices of any company(ies) electing to agree claims in respect of their own participation."
+"except as amended by the following:"
+"a) Claims Review - cost to be borne by Reinsurers hereon. It is further agreed that any adjustments to reserves from such reviews are to be advised to Leading Lloyd's and/or IUA Reinsurers only and Xchanging Claims Services."
+"b) Projected payments to be agreed by the Contract Leader and Xchanging Claims Services for entry purposes only.
+Claims Agreement Parties
+  A. Claims falling within the scope of the LMA9150 to be agreed by Slip Leader only on behalf of all (re)insurers (1) subscribing to this Contract on the same contractual terms (other than premium and brokerage) and (2) to these Arrangements. For the purposes of calculating the Threshold Amount, the sterling rate on the date that a financial value of the claim is first established by the Slip Leader shall be used and the rate of exchange shall be the Bank of England spot rate for the purchase of sterling at the time of the deemed conversion."
+"B. For all other claims:"
+"(i) For Lloyd's syndicates"
+"The leading Lloyd's Syndicate and, where required by the applicable Lloyd's Claims Scheme, the second Lloyd's Syndicate."
+"The second Lloyd's syndicate is:"
+"First Layer:"
+"Second Layer:"
+"Third Layer:"
+"Fourth Layer:"
+""
+"(ii)Those companies acting in accordance with the IUA claims agreement practices, excepting those that may have opted out via (iii) below."
+"(iii)Those companies that have specifically elected to agree claims in respect of their own participation."
+"(iv)All other subscribing reinsurers that are not party to the Lloyd's/IUA claims agreement practices, each in respect of their own participation.
+Claims Administration
+Where appropriate, Lockton Re LLP and Reinsurers agree that any claims hereunder (including any claims related costs/fees) will be notified and administered via ECF with any payment(s) processed via CLASS, unless both parties agree to do otherwise. Where claims or circumstances are not administered via ECF, notification, administration and payment(s) will be electronic."
+"Reinsurers agree to receive notification of all advices and settlements individually or, by prior agreement, on a bordereaux basis; Lloyd's Reinsurers via Xchanging Claims Services (for entry purposes only - if on a bordereaux basis, no individual entries) and IUA members via CLASS. Only losses in excess of 75% of the retention to be advised."
+""
+"Where a Lloyd's syndicate or IUA company is not an agreement party to the claim or circumstance (per CLAIMS AGREEMENT PARTIES A. above), they agree to accept correct ECF sequences for administrative purposes to ensure information is circulated to all subscribing parties."
+""
+"to accept de-linked signings at the discretion of Lockton Re LLP;"
+""
+""
+""
+"(Re)lnsurer(s) agree that Lockton Re LLP at their discretion may submit (or re-submit) any instalment of any Premium and/or Deposit Premium and/or Minimum and Deposit Premium due hereunder to XIS (and/or any successor organisation(s)) as a ""premium"" with any subsequent instalment(s) thereof accounted as ""Additional Premium""."
+""
+"(Re)lnsurer(s) agree to the collection and taking down of claim advices, claim settlements, Premiums, Additional Premiums and Returns of Premium (including cancellations) on"
+"production of a copy and/or duplicate slip or policy."
+""
+"Reinsurers agree that the broker must group multiple premiums for this Contract to ensure that they are settled simultaneously."
+"Unless otherwise agreed, the Contract Leader (and Agreement Parties if appropriate) are authorised to exercise rights under this clause on their own behalf and on behalf of all Reinsurers participating in this Contract."
+"Reinsurers authorise XIS to issue For Declaration Only signings hereon if required, but settlement due date(s) shall remain unaltered."
+"Where settlement due date, Premium Payment Condition (PPC) or Premium Payment Warranty (PPW) due date falls on a weekend or bank holiday, presentation to XIS or Reinsurers hereon as applicable on next working day will be deemed compliance with PPC or PPW."
+"Reinsurers agree to accept/settle accounts at rate of exchange declared by Lockton Re LLP. Settlement Currency: USD."
+""
+"Premium Processing Clause:"
+"Where the premium is to be paid through Xchanging Ins-sure Services (XIS), payment to (Re)Insurers will be deemed to occur on the day that a delinked premium is released for settlement by the Appointed Broker or in the case of non-delinked premiums, on the day that the error-free Premium Advice Note (PAN) is submitted to XIS. Where premiums are to be paid by instalments under the Deferred Account Scheme, and the Appointed Broker does not receive the premium in time to comply with the agreed settlement date for the second or subsequent instalment, the Appointed Broker, if electing to suspend the automatic debiting of the relevant deferred instalment, shall advise the Contract Leader in writing and instruct XIS accordingly. XIS shall then notify (Re)Insurers. Payment to any entity within the same group of companies as the Appointed Broker will be deemed to be payment to the Appointed Broker. Nothing in this clause shall be construed to override the terms of any Premium Payment Warranty or Clause or any Termination or Cancellation provision contained in this Contract. Furthermore, any amendment to the Settlement Due Date of a premium instalment as a result of the operation of this Premium Processing Clause shall not amend the date that such instalment is deemed to be due for the purposes of such Premium Payment Warranty or Clause or Termination or Cancellation provision unless (Re)Insurers expressly agree otherwise. Appointed Broker: Lockton Re LLP"
+"LSW3003"
+"14/12/09
+Non-Bureau Arrangements
+None, unless specified by Reinsurers hereon in this provision."
+"FISCAL AND REGULATORY"
+"Tax Payable by Reinsurer(s)
+The applicable percentage of Federal Excise Tax and FATCA - only applicable to reinsurers subject to such tax payments.
+Country of Origin
+United States of America.
+Regulatory Risk Location
+United States of America.
+Overseas Broker
+
+US Classification
+US Reinsurance
+NAIC Code
+
+Allocation of Premium to Coding
+
+Regulatory Client Classification
+Reinsurance"
+"BROKER REMUNERATION AND DEDUCTIONS"
+"Fee Payable by Client
+No
+Total Brokerage
+15.00%.(nil on reinstatement (s))
+Other Deductions from Premium
+None.
+Written Lines
+with respect to the Subscribing Reinsurer specified below"
+""
+""
+""
+""
+""
+""
+""
+""
+"Property Cat Template			Page 1"
+""

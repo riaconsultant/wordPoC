@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {  } from 'docx';
 import { HttpClientModule } from '@angular/common/http';
+import { DocumentEditorContainerAllModule } from '@syncfusion/ej2-angular-documenteditor';
+
 
 @NgModule({
   declarations: [
@@ -16,7 +18,8 @@ import { HttpClientModule } from '@angular/common/http';
     AppRoutingModule,
     FormsModule,
     ReactiveFormsModule,
-    HttpClientModule
+    HttpClientModule,
+    DocumentEditorContainerAllModule
   ],
   providers: [],
   bootstrap: [AppComponent]

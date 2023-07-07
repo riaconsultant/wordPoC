@@ -12,10 +12,12 @@ import {
   TextRun,
 } from 'docx';
 import { saveAs } from 'file-saver';
+import { ToolbarService, DocumentEditorContainerComponent } from '@syncfusion/ej2-angular-documenteditor';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
+  providers: [ToolbarService]
 })
 export class AppComponent {
   title = 'wordPoC';
@@ -25,7 +27,10 @@ export class AppComponent {
     
   })
   userArray: any = [];
-  constructor(private http: HttpClient) {}
+  public serviceLink: string;
+  constructor(private http: HttpClient) {
+    this.serviceLink = 'http://localhost:6002/api/documenteditor/';
+  }
   fileUpload($event: any){
     const files = $event.target.files as FileList;
     this.file = files.item(0)
